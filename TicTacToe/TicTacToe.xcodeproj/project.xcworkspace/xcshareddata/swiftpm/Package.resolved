@@ -1,0 +1,24 @@
+{
+  "originHash" : "82e4e4334c6776e5df3ca4d629e9a610c4f65d15b197d1114c50301d636b9d5b",
+  "pins" : [
+    {
+      "identity" : "modernribs",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DevYeom/ModernRIBs.git",
+      "state" : {
+        "revision" : "8884514a2b98e98dd381f941054a5cbb275eaaf2",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
+        "version" : "5.7.1"
+      }
+    }
+  ],
+  "version" : 3
+}
